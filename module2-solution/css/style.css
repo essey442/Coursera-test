@@ -58,6 +58,9 @@ footer{
     section{
         width: 45%;
     }
+    .js{
+        width: 90%;
+    }
 }
 @media all and (max-width: 767px){
     section{
